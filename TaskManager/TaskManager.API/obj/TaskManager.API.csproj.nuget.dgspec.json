@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.API\\TaskManager.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.API\\TaskManager.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
+        "projectName": "TaskManager.API",
+        "projectPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
+        "packagesPath": "C:\\Users\\KAJAMOKAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KAJAMOKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj": {
+                "projectPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj"
+              },
+              "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
+                "projectPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj",
+        "projectName": "TaskManager.Application",
+        "projectPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj",
+        "packagesPath": "C:\\Users\\KAJAMOKAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KAJAMOKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\TaskManager.Domain.csproj": {
+                "projectPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\TaskManager.Domain.csproj"
+              },
+              "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
+                "projectPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\TaskManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\TaskManager.Domain.csproj",
+        "projectName": "TaskManager.Domain",
+        "projectPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\TaskManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\KAJAMOKAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KAJAMOKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
+        "projectName": "TaskManager.Infrastructure",
+        "projectPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\KAJAMOKAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KAJAMOKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\TaskManager.Domain.csproj": {
+                "projectPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\TaskManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
