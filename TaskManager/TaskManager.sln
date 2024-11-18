@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.API", "TaskManager.API\TaskManager.API.csproj", "{67ACAD55-1ADF-4C0D-ADFD-53956BDC7FC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.API", "TaskManager.API\TaskManager.API.csproj", "{67ACAD55-1ADF-4C0D-ADFD-53956BDC7FC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Domain", "TaskManager.Domain\TaskManager.Domain.csproj", "{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Domain", "TaskManager.Domain\TaskManager.Domain.csproj", "{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Infrastructure", "TaskManager.Infrastructure\TaskManager.Infrastructure.csproj", "{DFA43671-208D-419E-8F28-56E0E68A054E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Infrastructure", "TaskManager.Infrastructure\TaskManager.Infrastructure.csproj", "{DFA43671-208D-419E-8F28-56E0E68A054E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.Application", "TaskManager.Application\TaskManager.Application.csproj", "{3355D152-7106-408F-AADD-B1D5C638C26B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Application", "TaskManager.Application\TaskManager.Application.csproj", "{3355D152-7106-408F-AADD-B1D5C638C26B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1A8DBF65-3E88-4B11-89CB-14E3ACE60F25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +38,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{67ACAD55-1ADF-4C0D-ADFD-53956BDC7FC6} = {1A8DBF65-3E88-4B11-89CB-14E3ACE60F25}
+		{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4} = {1A8DBF65-3E88-4B11-89CB-14E3ACE60F25}
+		{DFA43671-208D-419E-8F28-56E0E68A054E} = {1A8DBF65-3E88-4B11-89CB-14E3ACE60F25}
+		{3355D152-7106-408F-AADD-B1D5C638C26B} = {1A8DBF65-3E88-4B11-89CB-14E3ACE60F25}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FE2BA606-EB7C-488F-9118-3163A7CD643B}

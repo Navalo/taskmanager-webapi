@@ -1,4 +1,5 @@
 D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\bin\Debug\net8.0\TaskManager.Infrastructure.deps.json
+D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\bin\Debug\net8.0\TaskManager.Infrastructure.runtimeconfig.json
 D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\bin\Debug\net8.0\TaskManager.Infrastructure.dll
 D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\bin\Debug\net8.0\TaskManager.Infrastructure.pdb
 D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\bin\Debug\net8.0\TaskManager.Domain.dll
@@ -13,4 +14,5 @@ D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\obj\Debug\ne
 D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\obj\Debug\net8.0\TaskManager.Infrastructure.dll
 D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\obj\Debug\net8.0\refint\TaskManager.Infrastructure.dll
 D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\obj\Debug\net8.0\TaskManager.Infrastructure.pdb
+D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\obj\Debug\net8.0\TaskManager.Infrastructure.genruntimeconfig.cache
 D:\Navalo\taskmanager-webapi\TaskManager\TaskManager.Infrastructure\obj\Debug\net8.0\ref\TaskManager.Infrastructure.dll
