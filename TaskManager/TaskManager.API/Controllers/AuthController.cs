@@ -45,15 +45,20 @@ namespace TaskManager.API.Controllers
 
             try
             {
-                var isValid = await _authService.SignInAsync(request);
-                if (!isValid)
-                    return Unauthorized(new ApiResponse<string>(false, "Invalid credentials."));
+                var result = await _authService.SignInAsync(request);
+                if (result == null)
+                    return Unauthorized(new ApiResponse<UserDto?>(false, "Invalid credentials.",null));
 
-                return Ok(new ApiResponse<string>(true, "Login successful."));
+                var userDto = new UserDto 
+                {
+                    Id = result.Id,
+                    Username = result.Username 
+                };
+                return Ok(new ApiResponse<UserDto>(true, "Login successful.", userDto));
             }
             catch (Exception ex)
             {
-                return StatusCode(500, new ApiResponse<string>(false, "An error occurred while processing your request.", ex.Message));
+                return StatusCode(500, new ApiResponse<UserDto?>(false, ex.Message, null));
             }
         }
     }

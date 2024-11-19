@@ -33,20 +33,20 @@ namespace TaskManager.Infrastructure.Repositories
             }
         }
 
-        public async Task<bool> SignInAsync(LoginRequestDto loginDto)
+        public async Task<User?> SignInAsync(LoginRequestDto loginDto)
         {
             try
             {
                 ArgumentNullException.ThrowIfNull(loginDto);
 
-                var result = await _DbContext.Users.FirstOrDefaultAsync(u => u.Username == loginDto.Username);
+                var user = await _DbContext.Users.FirstOrDefaultAsync(u => u.Username == loginDto.Username);
 
-                if (result == null)
+                if (user == null)
                 {
-                    return false;
+                    return null;
                 }
 
-                return true;
+                return user;
             }
             catch (Exception)
             {

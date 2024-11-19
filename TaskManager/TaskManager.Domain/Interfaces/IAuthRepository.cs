@@ -1,10 +1,11 @@
 ﻿using TaskManager.Domain.DTOs;
+using TaskManager.Domain.Entities;
 
 namespace TaskManager.Domain.Interfaces
 {
     public interface IAuthRepository
     {
-        Task<bool> SignInAsync(LoginRequestDto user);
+        Task<User?> SignInAsync(LoginRequestDto user);
         Task<bool> RegisterAsync(RegisterRequestDto user);
     }
 }

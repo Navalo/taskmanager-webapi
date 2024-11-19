@@ -3,36 +3,64 @@
   "WorkspaceRootPath": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67ACAD55-1ADF-4C0D-ADFD-53956BDC7FC6}|TaskManager.API\\TaskManager.API.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ACAD55-1ADF-4C0D-ADFD-53956BDC7FC6}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ACAD55-1ADF-4C0D-ADFD-53956BDC7FC6}|TaskManager.API\\TaskManager.API.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ACAD55-1ADF-4C0D-ADFD-53956BDC7FC6}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|solutionrelative:taskmanager.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|solutionrelative:taskmanager.infrastructure\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.domain\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|solutionrelative:taskmanager.domain\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.infrastructure\\migrations\\20241119092153_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|solutionrelative:taskmanager.infrastructure\\migrations\\20241119092153_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|solutionrelative:taskmanager.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.domain\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|solutionrelative:taskmanager.domain\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.infrastructure\\handlers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|solutionrelative:taskmanager.infrastructure\\handlers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.domain\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|solutionrelative:taskmanager.domain\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|solutionrelative:taskmanager.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3355D152-7106-408F-AADD-B1D5C638C26B}|TaskManager.Application\\TaskManager.Application.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3355D152-7106-408F-AADD-B1D5C638C26B}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.domain\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|solutionrelative:taskmanager.domain\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3355D152-7106-408F-AADD-B1D5C638C26B}|TaskManager.Application\\TaskManager.Application.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3355D152-7106-408F-AADD-B1D5C638C26B}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67ACAD55-1ADF-4C0D-ADFD-53956BDC7FC6}|TaskManager.API\\TaskManager.API.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67ACAD55-1ADF-4C0D-ADFD-53956BDC7FC6}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3355D152-7106-408F-AADD-B1D5C638C26B}|TaskManager.Application\\TaskManager.Application.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.application\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3355D152-7106-408F-AADD-B1D5C638C26B}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3355D152-7106-408F-AADD-B1D5C638C26B}|TaskManager.Application\\TaskManager.Application.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3355D152-7106-408F-AADD-B1D5C638C26B}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|solutionrelative:taskmanager.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.domain\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D61AC22-6CB2-438A-89DA-F0A34E55EAC4}|TaskManager.Domain\\TaskManager.Domain.csproj|solutionrelative:taskmanager.domain\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|d:\\navalo\\taskmanager-webapi\\taskmanager\\taskmanager.infrastructure\\handlers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA43671-208D-419E-8F28-56E0E68A054E}|TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj|solutionrelative:taskmanager.infrastructure\\handlers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,91 +78,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
-              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
-              "RelativeToolTip": "TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:45:46.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Repositories\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "TaskManager.Infrastructure\\Repositories\\AuthRepository.cs",
-              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Repositories\\AuthRepository.cs",
-              "RelativeToolTip": "TaskManager.Infrastructure\\Repositories\\AuthRepository.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:45:33.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BasicAuthenticationHandler.cs",
-              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Handlers\\BasicAuthenticationHandler.cs",
-              "RelativeDocumentMoniker": "TaskManager.Infrastructure\\Handlers\\BasicAuthenticationHandler.cs",
-              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Handlers\\BasicAuthenticationHandler.cs",
-              "RelativeToolTip": "TaskManager.Infrastructure\\Handlers\\BasicAuthenticationHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:45:29.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ITaskRepository.cs",
-              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Interfaces\\ITaskRepository.cs",
-              "RelativeDocumentMoniker": "TaskManager.Domain\\Interfaces\\ITaskRepository.cs",
-              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Interfaces\\ITaskRepository.cs",
-              "RelativeToolTip": "TaskManager.Domain\\Interfaces\\ITaskRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:45:26.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAuthRepository.cs",
-              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Interfaces\\IAuthRepository.cs",
-              "RelativeDocumentMoniker": "TaskManager.Domain\\Interfaces\\IAuthRepository.cs",
-              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Interfaces\\IAuthRepository.cs",
-              "RelativeToolTip": "TaskManager.Domain\\Interfaces\\IAuthRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:45:25.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "TaskManager.Application\\Services\\IAuthService.cs",
-              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\Services\\IAuthService.cs",
-              "RelativeToolTip": "TaskManager.Application\\Services\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:45:23.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TaskManager.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TaskManager.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:13:19.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "TaskManager.Application\\Services\\AuthService.cs",
               "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\Services\\AuthService.cs",
               "RelativeToolTip": "TaskManager.Application\\Services\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswA8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T19:45:23.2Z",
               "EditorCaption": ""
@@ -142,15 +105,170 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "TaskManager.Application\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:45:23.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager.Domain\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "TaskManager.Domain\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:45:25.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManager.Infrastructure\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:45:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TaskController.cs",
               "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.API\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "TaskManager.API\\Controllers\\TaskController.cs",
               "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.API\\Controllers\\TaskController.cs",
               "RelativeToolTip": "TaskManager.API\\Controllers\\TaskController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T19:45:17.424Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManager.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManager.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:45:53.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManager.Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "TaskManager.Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:38:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241119092153_Init.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Migrations\\20241119092153_Init.cs",
+              "RelativeDocumentMoniker": "TaskManager.Infrastructure\\Migrations\\20241119092153_Init.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Migrations\\20241119092153_Init.cs",
+              "RelativeToolTip": "TaskManager.Infrastructure\\Migrations\\20241119092153_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:21:53.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "TaskManager.Domain\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "TaskManager.Domain\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:14:10.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "TaskManager.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:45:33.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\Services\\ITaskService.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\Services\\ITaskService.cs",
+              "RelativeToolTip": "TaskManager.Application\\Services\\ITaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:38:51.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManager.Application\\Services\\TaskService.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Application\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManager.Application\\Services\\TaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:47:44.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager.Domain\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Domain\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskManager.Domain\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:45:26.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Handlers\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "TaskManager.Infrastructure\\Handlers\\BasicAuthenticationHandler.cs",
+              "ToolTip": "D:\\Navalo\\taskmanager-webapi\\TaskManager\\TaskManager.Infrastructure\\Handlers\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "TaskManager.Infrastructure\\Handlers\\BasicAuthenticationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:45:29.247Z"
             }
           ]
         }

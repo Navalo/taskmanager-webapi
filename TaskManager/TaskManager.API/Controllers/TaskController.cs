@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using TaskManager.Application.Services;
 using TaskManager.Domain.DTOs;
@@ -14,12 +13,12 @@ namespace TaskManager.API.Controllers
     {
         private readonly ITaskService _taskService = taskService;
 
-        [HttpGet]
-        public async Task<IActionResult> GetAll()
+        [HttpGet("user/{userId}")]
+        public async Task<IActionResult> GetAllByUserIdAsync(int userId)
         {
             try
             {
-                var tasks = await _taskService.GetAllAsync();
+                var tasks = await _taskService.GetAllByUserIdAsync(userId);
 
                 if (tasks == null)
                 {

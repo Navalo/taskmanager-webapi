@@ -17,12 +17,12 @@ namespace TaskManager.Application.Services
             return await _taskRepository.DeleteAsync(id);
         }
 
-        public async Task<IEnumerable<TaskItem>> GetAllAsync()
+        public async Task<IEnumerable<TaskItem>> GetAllByUserIdAsync(int userId)
         {
-            return await _taskRepository.GetAllAsync();
+            return await _taskRepository.GetAllByUserIdAsync(userId);
         }
 
-        public async Task<TaskItem> GetByIdAsync(int id)
+        public async Task<TaskItem?> GetByIdAsync(int id)
         {
             return await _taskRepository.GetByIdAsync(id);
         }

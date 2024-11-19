@@ -23,9 +23,9 @@ namespace TaskManager.Infrastructure.Repositories
                   .ExecuteDeleteAsync();
         }
 
-        public async Task<IEnumerable<TaskItem>> GetAllAsync()
+        public async Task<IEnumerable<TaskItem>> GetAllByUserIdAsync(int userId)
         {
-            return await _context.Tasks.AsNoTracking().ToListAsync();
+            return await _context.Tasks.Where(t => t.UserId == userId).AsNoTracking().ToListAsync();
         }
 
         public async Task<TaskItem?> GetByIdAsync(int id)

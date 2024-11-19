@@ -1,4 +1,5 @@
 ﻿using TaskManager.Domain.DTOs;
+using TaskManager.Domain.Entities;
 using TaskManager.Domain.Interfaces;
 
 namespace TaskManager.Application.Services
@@ -12,7 +13,7 @@ namespace TaskManager.Application.Services
             return await _authRepository.RegisterAsync(user);
         }
 
-        public async Task<bool> SignInAsync(LoginRequestDto user)
+        public async Task<User?> SignInAsync(LoginRequestDto user)
         {
             return await _authRepository.SignInAsync(user);
         }

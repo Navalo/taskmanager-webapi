@@ -5,7 +5,7 @@ namespace TaskManager.Application.Services
 {
     public interface IAuthService
     {
-        Task<bool> SignInAsync(LoginRequestDto user);
+        Task<User?> SignInAsync(LoginRequestDto user);
         Task<bool> RegisterAsync(RegisterRequestDto user);
     }
 }
